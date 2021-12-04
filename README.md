@@ -19,12 +19,12 @@
 </p>
 
 ## 42 Statistics
-<p align="center"></p>
-	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=hyungyoo" 	link="https://linkedin.com/in/hyungjunyoo"/>
-
+<p>
+	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=hyungyoo" link="https://linkedin.com/in/hyungyoo"/>
+</p>
 
 ## Github Stat
-	![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=malatini42&show_icons=true&theme=tokyonight)
+![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungyoo&show_icons=true&theme=tokyonight)
 
 ## <h3 align="center"> E-mail </h3>
 <p align="center">
