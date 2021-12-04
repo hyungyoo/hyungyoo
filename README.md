@@ -7,7 +7,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center">🇫🇷 🇰🇷 Techs that I've used at least once </p>
+<p align="center">Techs</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -28,6 +28,6 @@
 
 ## <h3 align="center"> E-mail </h3>
 <p align="center">
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hjyoo901112@gmail.com"/></a>
+  <a href="mailto:hjyoo901112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hjyoo901112@gmail.com"/></a>
 </p>
 <br>
