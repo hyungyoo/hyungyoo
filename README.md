@@ -24,7 +24,7 @@
 
 
 ## Github Stat
-	![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungyoo42&show_icons=true&theme=tokyonight)
+	![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=malatini42&show_icons=true&theme=tokyonight)
 
 	## <h3 align="center"> E-mail </h3>
 <p align="center">
