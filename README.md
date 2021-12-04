@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hyungjun YOO&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyungjunYOO&fontSize=70&animation=twinkling)
 
 
 # I'm Hyngjun YOO 🇫🇷 🇰🇷
@@ -6,14 +6,6 @@
 <p align="center"></p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
-## 42 Statistics
-<p>
-	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=hyungyoo" link="https://linkedin.com/in/hyungjunyoo"/>
-</p>
-
-## Github Stat
-![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungyoo&show_icons=true&theme=tokyonight)
 
 <p align="center">🇫🇷 🇰🇷 Techs that I've used at least once </p>
 
@@ -26,6 +18,13 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+## 42 Statistics
+<p>
+	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=hyungyoo" link="https://linkedin.com/in/hyungjunyoo"/>
+</p>
+
+## Github Stat
+![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungyoo&show_icons=true&theme=tokyonight)
 
 ## <h3 align="center"> E-mail </h3>
 <p align="center">
