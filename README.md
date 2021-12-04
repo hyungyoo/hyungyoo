@@ -1,8 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hyungjun YOO&fontSize=70&animation=twinkling)
+
+
 # I'm Hyngjun YOO 🇫🇷 🇰🇷
 
-I'm currently studying at 42 Paris.
+<p align="center"></p>
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 ## 42 Statistics
 <p>
@@ -12,6 +15,20 @@ I'm currently studying at 42 Paris.
 ## Github Stat
 ![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungyoo&show_icons=true&theme=tokyonight)
 
+<p align="center">🇫🇷 🇰🇷 Techs that I've used at least once </p>
 
-## E-mail
-hjyoo901112@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
+
+
+## <h3 align="center"> E-mail </h3>
+<p align="center">
+  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hjyoo901112@gmail.com"/></a>
+</p>
+<br>
