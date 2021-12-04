@@ -22,10 +22,10 @@
 <p align="center"></p>
 	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=hyungyoo" 	link="https://linkedin.com/in/hyungjunyoo"/>
 
-<p align="center"></p>
+
 ## Github Stat
 	![Hyungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungyoo&show_icons=true&theme=tokyonight)
-</p>
+
 	## <h3 align="center"> E-mail </h3>
 <p align="center">
   <a href="mailto:hjyoo901112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hjyoo901112@gmail.com"/></a>
