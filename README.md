@@ -5,11 +5,7 @@
 
 <p align="center"></p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center">Techs</p>
-
-## 👍Skill List
+## 🛠 Tech Stack 🛠
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,7 +16,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nextjs](https://img.shields.io/badge/Nexjt-Nextjs-yellowgreen)
+![Nextjs](https://img.shields.io/badge/-Nextjs-yellowgreen)
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ## Github Stat
