@@ -7,7 +7,7 @@
 
 ## 🛠 Tech Stack 🛠
 
-- c
+- C
 - C++
 - JavaScript
 - TypeScript
