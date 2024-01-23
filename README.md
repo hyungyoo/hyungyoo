@@ -9,16 +9,22 @@
 
 - C
 - C++
+- Python
 - JavaScript
 - TypeScript
+  
 - React
 - Nextjs
 - Streamlit
+  
 - Nodejs
 - NestJs
-- Postgres
+- FastAPI
+  
+- Postgresql
 - Mongodb
 - Pinecone
+  
 - Langchain
 - Llamaindex
 
